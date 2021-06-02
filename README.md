@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Shumaila Kayani 👋
 
 
-**Shumailakayani06/shumailakayani06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
  I'm studying Frontend Development at Noroff in Bergen.
  
