@@ -4,8 +4,8 @@
 
  I'm studying Frontend Development at Noroff in Bergen.
  
-<p> 🔭 I’m currently working on my Portfolio 1</p>
- <p>🌱 I’m currently learning  JavaScript </p>
+<p> 🔭 I’m currently working on my first assignment in second year </p>
+ <p>🌱 I’m currently learning  SASS and REACT </p>
  <p>📚 Completing my studies in june.2022</p>
 <p> 💌 Contact me : shumailakayani059@gmail.com</p>
  
