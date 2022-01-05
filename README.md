@@ -7,7 +7,7 @@
 <p> 🔭 I’m currently working on my semester project for my second year </p>
  <p>🌱 I’m currently learning  SASS and REACT </p>
  <p>📚 Completing my studies in june.2022</p>
-<p> 💌 Contact me : shumailakayani059@gmail.com</p>
+
  
  
  
