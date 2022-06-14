@@ -11,7 +11,8 @@ I also enjoy wireframing, ui, ux and design in general.
 * ▲ Next.js
 * 🔹 Tailwind, SASS, SCSS
 
-![image](https://github.com/Shumailakayani06/shumailakayani06/blob/main/Pastel%20Green%20New%20Video%20Blog%20Instagram%20Post%20(2).mp4)
+
+<img src="https://github.com/Shumailakayani06/shumailakayani06/blob/main/Pastel%20Green%20New%20Video%20Blog%20Instagram%20Post%20(2).mp4" width="200" />
 
 
  
