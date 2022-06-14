@@ -26,7 +26,7 @@ I also enjoy wireframing, ui, ux and design in general.
 
 
  - 🔭 I’m currently working on My Portfolio 
-- 🌱 I’m currently learning Advanced NEXT.js
+- 🌱 I’m currently learning Advanced NEXT.js and React Native
 
 
 
