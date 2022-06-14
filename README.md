@@ -7,10 +7,10 @@ I also enjoy wireframing, ui, ux and design in general.
 
 ## Skills and Experience
 
-*⚛ React
-*💻 HTML, CSS, JS
-*▲ Next.js
-*🔹 Tailwind, SASS, SCSS
+-⚛ React
+-💻 HTML, CSS, JS
+-▲ Next.js
+-🔹 Tailwind, SASS, SCSS
 
 
 
