@@ -21,13 +21,18 @@ I also enjoy wireframing, ui, ux and design in general.
 <img src="https://github.com/Shumailakayani06/shumailakayani06/blob/main/nodejs.png" width="50" />
 
 
-<img src="https://github.com/Shumailakayani06/shumailakayani06/blob/main/Pastel%20Green%20New%20Video%20Blog%20Instagram%20Post.gif" width="500" />
-- 🔭 I’m currently working on My Portfolio 
-- 🌱 I’m currently learning Advanced NEXT.js 
+<img src="https://github.com/Shumailakayani06/shumailakayani06/blob/main/Pastel%20Green%20New%20Video%20Blog%20Instagram%20Post.gif" width="800" />
+
+
+
 
 
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shumailakayani06&layout=compact)](https://github.com/shumaila/github-readme-stats)
+ 
+ 
+ - 🔭 I’m currently working on My Portfolio 
+- 🌱 I’m currently learning Advanced NEXT.js
 
 
 
