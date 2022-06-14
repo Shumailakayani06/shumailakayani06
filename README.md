@@ -12,7 +12,7 @@ I also enjoy wireframing, ui, ux and design in general.
 * 🔹 Tailwind, SASS, SCSS
 
 
-<img src="https://github.com/Shumailakayani06/shumailakayani06/blob/main/javascript_icon_130900.png" width="200" />
+<img src="https://github.com/Shumailakayani06/shumailakayani06/blob/main/Pastel%20Green%20New%20Video%20Blog%20Instagram%20Post.gif" width="200" />
 
 
  
