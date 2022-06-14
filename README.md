@@ -1,12 +1,17 @@
-### Hi there, I'm Shumaila Kayani 👋
+### Hi there 👋, Shumaila Kayani
+#### Front-End Developer
+![Front-End Developer](https://media-exp2.licdn.com/dms/image/C4E16AQFJlJ-ktdOLVA/profile-displaybackgroundimage-shrink_350_1400/0/1623403757295?e=1660780800&v=beta&t=-hVabECmwaU70TzZlc5GeA4fmprYLLWPkz7BKB7qf-g)
+
+I'm Shumaila from Norway, and I do Design and Development. I really enjoy learning languages and framework like React and React Native, as well as Next.js.
+I also enjoy wireframing, ui, ux and design in general.
+
+Skills: HTML / CSS / REACT / JS / NEXT.JS / TYPESCRIPT
+
+- 🔭 I’m currently working on My Portfolio 
+- 🌱 I’m currently learning Advanced NEXT.js 
 
 
-
- I'm studying Frontend Development at Noroff in Bergen.
- 
-<p> 🔭 I’m currently working on my semester project for my second year </p>
- <p>🌱 I’m currently learning  SASS and REACT </p>
- <p>📚 Completing my studies in june.2022</p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Shumailakayani06)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shumaila-kayani-556aa717a//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://portfolio-sk-navy.vercel.app/)  
 
  
  
