@@ -6,18 +6,19 @@ I also enjoy wireframing, ui, ux and design in general.
  
 
 ## Skills and Experience
-<img src="https://github.com/Shumailakayani06/shumailakayani06/blob/main/file_type_html_icon_130541.png" width="100" />
-<img src="https://github.com/Shumailakayani06/shumailakayani06/blob/main/file_type_css_icon_130661.png" width="100" />
-<img src="https://github.com/Shumailakayani06/shumailakayani06/blob/main/javascript_icon_130900.png" width="100" />
-<img src="https://github.com/Shumailakayani06/shumailakayani06/blob/main/react_original_logo_icon_146374.png" width="100" />
-<img src="https://github.com/Shumailakayani06/shumailakayani06/blob/main/nextjs_icon_213852.png" width="100" />
-<img src="https://github.com/Shumailakayani06/shumailakayani06/blob/main/typescript.png" width="100" />
-<img src="https://github.com/Shumailakayani06/shumailakayani06/blob/main/tailwind-css.png" width="100" />
-<img src="https://github.com/Shumailakayani06/shumailakayani06/blob/main/sass.png" width="100" />
-<img src="https://github.com/Shumailakayani06/shumailakayani06/blob/main/wordpress_logo_icon_167953.png" width="100" />
-<img src="https://github.com/Shumailakayani06/shumailakayani06/blob/main/heroku_icon_130912.png" width="100" />
-<img src="https://github.com/Shumailakayani06/shumailakayani06/blob/main/strapi_logo_icon_144838.png" width="100" />
-<img src="https://github.com/Shumailakayani06/shumailakayani06/blob/main/nodejs.png" width="100" />
+
+<img src="https://github.com/Shumailakayani06/shumailakayani06/blob/main/file_type_html_icon_130541.png" width="50" />
+<img src="https://github.com/Shumailakayani06/shumailakayani06/blob/main/file_type_css_icon_130661.png" width="50" />
+<img src="https://github.com/Shumailakayani06/shumailakayani06/blob/main/javascript_icon_130900.png" width="50" />
+<img src="https://github.com/Shumailakayani06/shumailakayani06/blob/main/react_original_logo_icon_146374.png" width="50" />
+<img src="https://github.com/Shumailakayani06/shumailakayani06/blob/main/nextjs_icon_213852.png" width="50" />
+<img src="https://github.com/Shumailakayani06/shumailakayani06/blob/main/typescript.png" width="50" />
+<img src="https://github.com/Shumailakayani06/shumailakayani06/blob/main/tailwind-css.png" width="50" />
+<img src="https://github.com/Shumailakayani06/shumailakayani06/blob/main/sass.png" width="50" />
+<img src="https://github.com/Shumailakayani06/shumailakayani06/blob/main/wordpress_logo_icon_167953.png" width="50" />
+<img src="https://github.com/Shumailakayani06/shumailakayani06/blob/main/heroku_icon_130912.png" width="50" />
+<img src="https://github.com/Shumailakayani06/shumailakayani06/blob/main/strapi_logo_icon_144838.png" width="50" />
+<img src="https://github.com/Shumailakayani06/shumailakayani06/blob/main/nodejs.png" width="50" />
 
 
 <img src="https://github.com/Shumailakayani06/shumailakayani06/blob/main/Pastel%20Green%20New%20Video%20Blog%20Instagram%20Post.gif" width="200" />
