@@ -21,7 +21,7 @@ I also enjoy wireframing, ui, ux and design in general.
 <img src="https://github.com/Shumailakayani06/shumailakayani06/blob/main/nodejs.png" width="50" />
 
 
-<img src="https://github.com/Shumailakayani06/shumailakayani06/blob/main/Pastel%20Green%20New%20Video%20Blog%20Instagram%20Post.gif" width="200" />
+<img src="https://github.com/Shumailakayani06/shumailakayani06/blob/main/Pastel%20Green%20New%20Video%20Blog%20Instagram%20Post.gif" width="500" />
 
 
  
