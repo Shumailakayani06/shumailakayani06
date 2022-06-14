@@ -3,6 +3,8 @@
 # Shumaila Kayani
 I'm Shumaila from Norway, and I do Design and Development. I really enjoy learning languages and framework like React and React Native, as well as Next.js.
 I also enjoy wireframing, ui, ux and design in general.
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shumailakayani06&show_icons=true&theme=tokyonight)
 
 ## Skills and Experience
 * ⚛ React 
@@ -10,6 +12,8 @@ I also enjoy wireframing, ui, ux and design in general.
 * ▲ Next.js
 * 🔹 Tailwind, SASS, SCSS
 
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shumailakayani06&layout=compact)](https://github.com/shumaila/github-readme-stats)
 
 - 🔭 I’m currently working on My Portfolio 
 - 🌱 I’m currently learning Advanced NEXT.js 
@@ -18,9 +22,5 @@ I also enjoy wireframing, ui, ux and design in general.
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Shumailakayani06)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shumaila-kayani-556aa717a//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://portfolio-sk-navy.vercel.app/)  
 
  
- 
- 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shumailakayani06&show_icons=true&theme=tokyonight)
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shumailakayani06&layout=compact)](https://github.com/shumaila/github-readme-stats)
+
 
