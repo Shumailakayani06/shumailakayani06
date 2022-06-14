@@ -22,13 +22,13 @@ I also enjoy wireframing, ui, ux and design in general.
 
 
 <img src="https://github.com/Shumailakayani06/shumailakayani06/blob/main/Pastel%20Green%20New%20Video%20Blog%20Instagram%20Post.gif" width="500" />
+- 🔭 I’m currently working on My Portfolio 
+- 🌱 I’m currently learning Advanced NEXT.js 
 
 
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shumailakayani06&layout=compact)](https://github.com/shumaila/github-readme-stats)
 
-- 🔭 I’m currently working on My Portfolio 
-- 🌱 I’m currently learning Advanced NEXT.js 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Shumailakayani06)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shumaila-kayani-556aa717a//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://portfolio-sk-navy.vercel.app/)  
