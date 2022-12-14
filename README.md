@@ -2,7 +2,7 @@
 
 # Shumaila Kayani
 I'm Shumaila from Norway, and I do Design and Development. I really enjoy learning languages and framework like React and React Native, as well as Next.js.
-I also enjoy wireframing, ui, ux and design in general.
+I also enjoy wireframing, UI, UX and design in general.
  
 
 ## Skills and Experience
@@ -24,7 +24,7 @@ I also enjoy wireframing, ui, ux and design in general.
 
 
 
- - 🔭 I’m currently working on My Portfolio 
+ - 🔭 I’m currently studying JavaScript at Academic Work 
 - 🌱 I’m currently learning Advanced NEXT.js and React Native
 
 
