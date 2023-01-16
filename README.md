@@ -33,7 +33,7 @@ I also enjoy wireframing, UI, UX and design in general.
 
 
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shumailakayani06&layout=compact)](https://github.com/shumaila/github-readme-stats)
+
  
  
 
