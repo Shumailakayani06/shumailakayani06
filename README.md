@@ -1,4 +1,4 @@
-![Front-End Developer](https://media-exp2.licdn.com/dms/image/C4E16AQFJlJ-ktdOLVA/profile-displaybackgroundimage-shrink_350_1400/0/1623403757295?e=1660780800&v=beta&t=-hVabECmwaU70TzZlc5GeA4fmprYLLWPkz7BKB7qf-g)
+
 
 # Shumaila Kayani
 I'm Shumaila from Norway, and I do Design and Development. I really enjoy learning languages and framework like React and React Native, as well as Next.js.
