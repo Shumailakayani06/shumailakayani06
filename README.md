@@ -7,8 +7,7 @@ I also enjoy wireframing, UI, UX and design in general.
 
 ## Skills and Experience
 
-<img src="https://github.com/Shumailakayani06/shumailakayani06/blob/main/file_type_html_icon_130541.png" width="50" />
-<img src="https://github.com/Shumailakayani06/shumailakayani06/blob/main/file_type_css_icon_130661.png" width="50" />
+<img src="https://github.com/Shumailakayani06/shumailakayani06/blob/main/file_type_html_icon_130541.png" width="50" /><img src="https://github.com/Shumailakayani06/shumailakayani06/blob/main/file_type_css_icon_130661.png" width="50" />
 <img src="https://github.com/Shumailakayani06/shumailakayani06/blob/main/javascript_icon_130900.png" width="50" />
 <img src="https://github.com/Shumailakayani06/shumailakayani06/blob/main/react_original_logo_icon_146374.png" width="50" />
 <img src="https://github.com/Shumailakayani06/shumailakayani06/blob/main/nextjs_icon_213852.png" width="50" />
